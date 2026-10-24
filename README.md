@@ -16,6 +16,21 @@
 
 <br>
 
+## 🛠 에디터
+
+| Main 레벨 | 에디터에서 플레이 · Main |
+| :---: | :---: |
+| ![Main 레벨](media/gif/editor_main.gif) | ![에디터에서 플레이 Main](media/gif/editor_play_main.gif) |
+| **Vacuum 레벨** | **에디터에서 플레이 · Vacuum** |
+| ![Vacuum 레벨](media/gif/editor_vacuum.gif) | ![에디터에서 플레이 Vacuum](media/gif/editor_play_vacuum.gif) |
+
+| | | |
+| :---: | :---: | :---: |
+| ![](media/img/editor_build_main.jpg) | ![](media/img/editor_collision_main.jpg) | ![](media/img/editor_details_main.jpg) |
+| ![](media/img/editor_details_vacuum.jpg) | ![](media/img/editor_collision_vacuum.jpg) | ![](media/img/editor_pie_vacuum.jpg) |
+
+<br>
+
 ## ✨ 하이라이트
 
 | | |
